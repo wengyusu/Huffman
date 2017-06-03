@@ -1,0 +1,1023 @@
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name =
+ "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int>
+ > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.
+open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline))
+ {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
+
+   // const buf=Buffer.from('test');
+// console.log(buf);
+{
+    sdfsdf
+}
+const buf = Buffer.from([0x1,0x2,0x3,0x4,0x5]);
+var name = "Theaaaa Window";
+var object = {
+using namespace std;
+
+void read();
+void draw(string, int);
+
+char wall = 22;
+vector < vector <int> > maze;
+int main(void) {
+    read();
+    getchar();
+    return 0;
+}
+
+void read() {
+    fstream file;
+    int linenum = 0;
+    file.open("maze.txt", ios::in);
+    if (!file.is_open())
+        exit(0);
+    string readline;
+    while (getline(file, readline)) {
+        maze.push_back(vector <int>(0));
+        draw(readline, linenum);
+        linenum++;
+    }
